@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "medical_healthcare_db_with_nodejs",
+            "database": "healthcare_db",
+            "username": "postgres",
+            "password": "root"
+        }
+    ]
+}
